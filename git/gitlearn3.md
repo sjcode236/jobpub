@@ -18,5 +18,11 @@ $ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/sfguide-terraform-sa
 $ git push -u origin main
 ```
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+══════════════════════════════════════════   
+git Not3es from vagrant leanrning from page    
+https://github.com/sjcode236/puppet/blob/master/git-vagrantNotes.py          
+
+
 
 
