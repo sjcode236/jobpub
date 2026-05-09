@@ -62,6 +62,33 @@ git checkout master
 git branch   -->  to see  what branch on now 
 git merge login -m 'merging the login branch'
 ```
+```
+=====git with github===
+on github.com create a repo 'Gitapp1'
+echo "# Gitapp1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sjcode236/Gitapp1.git
+git push -u origin master
+```
+```
+mkdir dir1
+mkdir dir2
+git commit -m "adding dir1 dir2"
+git push
+Now all the files will be on github.come
+make a change to index.html  on github then
+git pull -> will update all local file
+```
+```
+to clone 
+git clone https://github.com/sjcode236/Gitapp1.git
+```
+
+
+
+
 
 
 
