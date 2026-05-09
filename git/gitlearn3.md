@@ -23,6 +23,47 @@ $ git push -u origin main
 git Not3es from vagrant leanrning from page    
 https://github.com/sjcode236/puppet/blob/master/git-vagrantNotes.py          
 
+```
+===download and install Git-2.18.0-64-bit 
+https://git-scm.com/downloads      ==(download from here)
+during installation select 
+"Use Git and optional Unix tools from the windows Command prompt"
+then launch git bash  
+start->git->git bash
+```   
+```
+-create a folder -> right click on it -> Git bash here
+   touch index.html
+   touch app.py
+    git init
+    git config --global user.name  "lenov lap"
+    git config --global user.email "sjbuy25@gmail.com"
+    git add  
+    git index.html
+    git *.html
+    git status
+    git rm --cached index.html
+    git status
+    git add .
+vi index.html  (add  some text)
+git commit -m 'changed  index.html'
+```
+
+```
+git branch login
+$ git checkout login
+Switched to branch 'login'
+git status
+touch login.html ( add some text)
+git add .
+git status
+git commit -m 'login form'
+git checkout master
+git branch   -->  to see  what branch on now 
+git merge login -m 'merging the login branch'
+```
+
+
 
 
 
