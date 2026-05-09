@@ -85,6 +85,22 @@ git pull -> will update all local file
 to clone 
 git clone https://github.com/sjcode236/Gitapp1.git
 ```
+===install git on centos linux =====     
+```
+yum install git
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --list
+	user.name=Your Name
+	user.email=you@example.com
+
+# Set the cache to timeout after 1 hour (setting is in seconds)
+git config --global credential.helper 'cache --timeout=3600'
+git push origin master 
+```
+============================    
+
 
 
 
