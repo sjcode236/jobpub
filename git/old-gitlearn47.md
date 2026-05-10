@@ -1,8 +1,8 @@
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 ══════════════════════════════════════════    
-git Not3es from vagrant leanrning from page    
-https://github.com/sjcode236/puppet/blob/master/git-vagrantNotes.py          
+git Notes from vagrant leanrning page  https://github.com/sjcode236/puppet/blob/master/git-vagrantNotes.py     
+ 
 
 ```
 ===download and install Git-2.18.0-64-bit 
