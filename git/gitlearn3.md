@@ -25,8 +25,11 @@ https://www.youtube.com/watch?v=i_23KUAEtUM
 How to Upload Project to GitHub Using Visual Studio Code (2026) | Push to GitHub From VSCode    
 https://www.youtube.com/watch?v=JB7YD7OKm5g     
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+How to Install Git Bash on Windows 2026 | How to Download Git Bash 2026     
+https://www.youtube.com/watch?v=hrinoukULzE     
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
 
 
 
